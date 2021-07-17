@@ -126,7 +126,6 @@ var simplemenu = `[ SIMPLE MENU ]
 ◪ *Info Bot*
 ❏ Prefix: 「 MULTI-Prefix of ${prefix} 」
 ❏ Username : ${pushname}
-❏ Mode : ${mode}
 ❏ Runtime : ${cts}
 *==================================*
 *| ▷ ${prefix}ownermenu*
