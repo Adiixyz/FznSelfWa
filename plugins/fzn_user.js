@@ -122,7 +122,6 @@ var menu = `◪ *INFO*
 Kirim.FakeStatus(from, menu, fakenya)
  break
 case 'simplemenu':
-const mode = selfna ? 'Self-Mode': 'Public-Mode'
 var simplemenu = `[ SIMPLE MENU ]
 ◪ *Info Bot*
 ❏ Prefix: 「 MULTI-Prefix of ${prefix} 」
